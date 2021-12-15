@@ -1,0 +1,2 @@
+# Delegationtype
+Types délégués 
